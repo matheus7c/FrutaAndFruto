@@ -1,0 +1,30 @@
+
+.img-carrosel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.img-card{
+    object-fit: cover;
+    /* object-position: 0 0; */
+    height: 200px;
+}
+
+
+.titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-darkred{
+    color: darkred!important;
+}
+
+.btn-darkred{
+    background-color: darkred;
+    color: white;
+}
+
+.border-darkred{
+    border-color: darkred;
+}
